@@ -6,7 +6,7 @@ Status: draft
 ## 1. Objetivo
 
 Desarrollar en grupo una aplicación web full stack en base a un alcance propuesto por los integrantes.
-
+ssssssss
 Durante dicho desarrollo se deberá aplicar todo lo aprendido en la matsssseria Desarrollo de Software.
 
 ## 2. Tema y Alcance
